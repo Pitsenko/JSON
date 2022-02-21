@@ -11,8 +11,7 @@ JSON
  - Переходим в  = git bash 
  - В разделе создаем папку =  mkdir 2homework
  - Заходим в папку = cd 2homework
- - git clone ( вставляем то что скуопировали) https://github.com/Pitsenko/TXT.git 
-
+ - git clone [Вставляем ссылку с гитхаба](https://github.com/Pitsenko/TXT.git)
 3. **Внутри локального JSON создать файл “new.json”.**  
 
  - touch new.json
